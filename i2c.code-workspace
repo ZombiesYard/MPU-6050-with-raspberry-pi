@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "H:\\档案\\成都大学\\soc paper"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stddef.h": "c",
+			"stdlib.h": "c",
+			"stdio.h": "c",
+			"i2cwrapper.h": "c",
+			"imu.h": "c",
+			"i2c_f5529.h": "c",
+			"mpu6050.h": "c",
+			"math.h": "c",
+			"mpu6050register.h": "c",
+			"quaternion.h": "c"
+		}
+	}
+}
